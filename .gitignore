@@ -1,0 +1,5 @@
+# raw Amazon data (too large for GitHub)
+*.jsonl
+*.jsonl.gz
+__pycache__/
+.venv/
